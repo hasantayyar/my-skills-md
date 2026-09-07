@@ -78,17 +78,17 @@ Before writing, identify:
 
 Always distinguish:
 
-**Facts** — verified information.
+**Facts** - verified information.
 
-**Assumptions** — believed but unverified information.
+**Assumptions** - believed but unverified information.
 
-**Constraints** — things the solution cannot change.
+**Constraints** - things the solution cannot change.
 
-**Decisions** — explicit choices.
+**Decisions** - explicit choices.
 
-**Risks** — things that could invalidate the decision.
+**Risks** - things that could invalidate the decision.
 
-**Open questions** — unresolved issues.
+**Open questions** - unresolved issues.
 
 Never present assumptions as facts.
 
