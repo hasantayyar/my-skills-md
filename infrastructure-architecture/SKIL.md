@@ -1,11 +1,11 @@
 ---
 name: infrastructure-architecture
 description: >
-Design infrastructure, platform, cloud, Kubernetes, networking, observability,
-security, reliability, deployment, and operational architectures for new product
-requirements and new products. Use when a product requirement needs architectural
-decisions, infrastructure design, technical design, RFCs, system decomposition,
-production readiness, or DevOps/SRE planning.
+  Design infrastructure, platform, cloud, Kubernetes, networking, observability,
+  security, reliability, deployment, and operational architectures for new product
+  requirements and new products. Use when a product requirement needs architectural
+  decisions, infrastructure design, technical design, RFCs, system decomposition,
+  production readiness, or DevOps/SRE planning.
 ---
 
 # Infrastructure & Architecture Design
